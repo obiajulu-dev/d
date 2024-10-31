@@ -15,7 +15,7 @@ const Login=()=>{
 
            <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-black'> 
 
-           <div className="  shadow-lg  rounded-2xl w-full bg-white h-full mobile:p-5 tablet:px-20 py-5 tablet:py-4  flex flex-col justify-center">
+           <div className="  shadow-lg  rounded-2xl w-full bg-white h-fit mobile:p-5 tablet:px-20 py-5 tablet:py-4  flex flex-col justify-center">
              
 
                 <div className="w-full flex flex-col  mt-4">
@@ -48,7 +48,7 @@ const Login=()=>{
                         <a href='forgot' className="text-sm  whitespace-nowrap font-medium cursor-pointer underline underline-offset-2">Forgot Password ?</a>
                     </div>
 
-                    <div className="w-full flex flex-col ">
+                    <div className="w-full flex flex-col pb-2 ">
                         <button  className="w-full bg-black rounded-md p-4 text-center flex items-center justify-center text-white">
                            <a href='devy'> Login </a>
                         </button>

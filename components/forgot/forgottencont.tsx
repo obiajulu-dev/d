@@ -8,7 +8,7 @@ const Forgottencont=()=>{
          <div className="flex w-full bg-black fixed h-screen  ">
             <div className='w-full flex tablet:mx-auto' >
                  <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-black'> 
-                   <div className="  shadow-lg  rounded-lg w-full tablet:mx-auto laptop:container bg-white h-full mobile:px-10 tablet:px-20 tablet:py-4  flex flex-col justify-center">
+                   <div className="  shadow-lg  rounded-lg w-full tablet:mx-auto laptop:container bg-white h-full mobile:px-5 tablet:px-20 tablet:py-4  flex flex-col justify-center">
                     <div className="w-full flex flex-col tablet:mx-auto tablet:container  mt-4">
                         <h3 className="text-2xl font-semibold text-center mb-4 text-primary ">Reset Password</h3>
                         <div className="w-full  flex flex-col mb-4">
@@ -26,7 +26,7 @@ const Forgottencont=()=>{
                             
                             <div className="w-full  flex flex-col mb-4">
                             <h1>Confirm Password</h1>
-                            <div className='border border-y-2 rounded-md px-4 py-2'>
+                            <div className='border border-y-2 rounded-md p10x-4 py-2'>
                                 <input
                                 type="Password"
                                 placeholder="Confirm your Password" 
