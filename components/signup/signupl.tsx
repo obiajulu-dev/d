@@ -15,7 +15,7 @@ const Signupl=()=>{
 
            <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-black'> 
 
-           <div className="  shadow-lg  rounded-lg w-full tablet:mx-auto tablet:container bg-white h-full mobile:px-10 tablet:px-20 tablet:py-4  flex flex-col justify-center">
+           <div className="  shadow-lg  rounded-lg w-full tablet:mx-auto tablet:container bg-white h-full mobile:px-10 tablet:px-20 tablet:py-4  flex flex-col ">
 
 
                 <div className="w-full flex flex-col tablet:mx-auto tablet:container  mt-4">

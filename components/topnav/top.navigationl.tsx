@@ -16,7 +16,7 @@ const TopNavigationl=()=>{
 
 
     return(
-        <nav className="fixed bg-opacity-30 px-10  top-4 left-0 w-full  text-white z-40">
+        <nav className="fixed bg-opacity-30 px-5 tablet:px-10  top-4 left-0 w-full  text-white z-40">
         <div className='  shadow  tablet:mx-auto tablet:container rounded-3xl bg-mintGreen '>
 
        
