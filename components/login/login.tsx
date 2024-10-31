@@ -15,7 +15,7 @@ const Login=()=>{
 
            <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-black'> 
 
-           <div className="  shadow-lg  rounded-2xl w-full bg-white h-full mobile:p-10 tablet:px-20 tablet:py-4  flex flex-col justify-center">
+           <div className="  shadow-lg  rounded-2xl w-full bg-white h-full mobile:p-5 tablet:px-20 py-5 tablet:py-4  flex flex-col justify-center">
              
 
                 <div className="w-full flex flex-col  mt-4">
