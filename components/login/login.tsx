@@ -19,8 +19,8 @@ const Login=()=>{
              
 
                 <div className="w-full flex flex-col  mt-4">
-                    <h3 className="text-4xl font-semibold text-center mb-4 text-primary ">Sign In</h3>
-                    <p className="text-sm mb-2  text-center font-serif">Login to Start Using Devy</p>
+                    <h3 className="text-2xl tablet:text-4xl font-semibold text-center mb-2 tableT:mb-4 text-primary ">Sign In</h3>
+                    <p className="text-sm mb-2  text-center font-serif">Welcome Back DEVy</p>
 
                     <div className="w-full  flex flex-col mb-4">
                         <h1>Email</h1>
@@ -45,11 +45,6 @@ const Login=()=>{
                     </div>
 
                     <div className="w-full  flex justify-between mb-4">
-                        <div className="w-full flex items-center  ">
-                             <input type="checkbox" className="w-4 h-4 mr-2 "/>
-                             <p className="text-xs">Remember me for next login </p>
-                        </div>
-                        
                         <a href='forgot' className="text-sm  whitespace-nowrap font-medium cursor-pointer underline underline-offset-2">Forgot Password ?</a>
                     </div>
 
@@ -61,7 +56,7 @@ const Login=()=>{
 
                 </div>
 
-                <div className="w-full flex  items-center justify-center">
+                <div className="w-full flex pb-4 items-center justify-center">
                     <p className="text-sm text-black font-normal ">Dont have an account? <a href="/signup"className=" font-semibold text-primary">Sign up now!! </a></p>
                 </div>
                 
