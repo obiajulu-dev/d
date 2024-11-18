@@ -21,10 +21,10 @@ const Forgottencont=()=>{
                                 className="w-full text-black outline-none" 
                                 />
                             </div>
-                            </div>'
+                            </div>
                             
                             <div className="w-full  flex flex-col mb-4">
-                            <h1>Confirm Password</h1>'
+                            <h1>Confirm Password</h1>
                             <div className='border border-y-2 rounded-md p-4 py-2'>
                                 <input
                                 type="Password"
