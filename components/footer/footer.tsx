@@ -24,8 +24,8 @@
                     </h4>
                     <div className="flex tablet:flex-col tablet:space-x-0 mobile:flex-row mobile:space-x-5 text-xs tablet:text-sm">
                         <a href="/" className='text-white'>Home</a>
-                        <a href="/faq" className='text-white'>FAQ</a>
-                        <a href="/login" className='text-white'>Profile</a>
+                        <a href="/login" className='text-white'>Trade</a>
+                        <a href="/login" className='text-white'>Utility</a>
                     </div>
                 </div>
 
@@ -34,11 +34,10 @@
                         Contact Us
                     </h4>
                     <div className="flex tablet:flex-col tablet:space-x-0 mobile:flex-row mobile:space-x-5 text-xs tablet:text-sm">
-                        <a href="/" className='text-white'>Twitter</a>
+                        <a href="/" className='text-white'>X</a>
                         <a href="/" className='text-white'>Instagram</a>
-                        <a href="/" className='text-white'>LinkedIn</a>
                         <a href="/" className='text-white'>Mail</a>
-                        <a href="/" className='text-white'>Zoom</a>
+           
                     </div>
                 </div>
 

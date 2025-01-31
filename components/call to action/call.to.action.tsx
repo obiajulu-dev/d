@@ -8,7 +8,7 @@ import { Apple, GooglePlay } from 'iconsax-react'
                     <h1 className='absolute w-full bg-mintGreen mobile:h-72 tablet:h-[350px] object-cover rounded-lg'></h1>
 
                     <div className="absolute flex flex-col items-center justify-center text-center space-y-5 px-5">
-                        <h2 className='font-black text-2xl tablet:text-4xl desktop:text-4xl text-white'>Download <span className='text-primary'>the</span><br/><span className='text-primary'>Devy</span> app now</h2>
+                        <h2 className='font-black text-2xl tablet:text-4xl desktop:text-4xl text-white'>Download <span className='text-primary'></span><br/><span className='text-primary'>DEVy</span> app now</h2>
                         <p className='mobile:text-base tablet:text-lg desktop:text-xl text-white'></p>
                          <div className="flex flex-row mobile:inline-flex mobile:space-y-0 mobile:space-x-2 tablet:flex-row tablet:space-x-8 tablet:space-y-0">
                             <button className='bg-primary rounded-md items-center py-2 px-4'>

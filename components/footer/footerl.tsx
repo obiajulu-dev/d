@@ -10,7 +10,7 @@ const Footerl=()=>{
                  <h6 className=" text-sm tablet:text-2xl">We no go carry your money run.</h6>
                 </span>
                   <div className="flex justify-center text-center w-full flex-col font-lufga-light space-y-4 pt-3  md:pt-10 tablet:font-medium">
-                    <a className="text-xs tablet:text-sm" href=""> Copyright © 2024 Devy. All rights reserved.</a>
+                    <a className="text-xs tablet:text-sm" href=""> Copyright © 2025 Devy. All rights reserved.</a>
                   </div>
            </div>
                     <div className="flex justify-center text-center w-full flex-row space-x-4 text-white font-semibold text-sm items-start tablet:items-start tablet:space-x-0 tablet:flex-col tablet:text-base tablet:space-y-14">

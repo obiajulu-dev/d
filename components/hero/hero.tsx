@@ -13,8 +13,8 @@ const Hero=()=>{
                  </div>
 
             <div className="w-1/2   mobile:h-screen   text-center flex flex-col justify-center">
-              <p className="uppercase text-mintGreen font-bold p-2">Growing with Devy</p>
-              <h1 className=" tablet:text-5xl font-bold laptop:py-6">Grow with your data.</h1>
+              <h1 className="uppercase text-mintGreen font-bold p-1">Growing with DEVy</h1>
+              <p className=" tablet:text-5xl font-bold laptop:py-6">Grow with your data.</p>
               <div>
                 <p className="laptop:text-5xl tablet:text-4xl mobile:text-xl font-bold ">Fast, Flexable, Easy to use </p>
             {/*}    <Typed    />*/}

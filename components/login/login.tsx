@@ -13,7 +13,7 @@ const Login=()=>{
                </div>
            </div>
 
-           <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-black'> 
+           <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-white tablet:bg-black'> 
 
            <div className="  shadow-lg  rounded-2xl w-full bg-white h-fit mobile:p-5 tablet:px-20 py-5 tablet:py-4  flex flex-col justify-center">
              
@@ -28,7 +28,7 @@ const Login=()=>{
                             <input
                             type="email"
                             placeholder="Email" 
-                            required
+                            required                                                                                                                                              
                             className="w-full text-black outline-none" />
                         </div>
                     </div>

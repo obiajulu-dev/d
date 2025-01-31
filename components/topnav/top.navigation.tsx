@@ -37,22 +37,26 @@ const TopNavigation=()=>{
                     </div>
 
                     {/* Menu Item */}
-                    <div className="hidden space-x-10 tablet:flex text-center tablet:items-left text-sm">
-                        <a href="/login" className="hover:text-black font-sans font-bold">Login</a>
-                        <a href="/faq" className="hover:text-black font-sans font-bold">Servies</a>
+                    <div className="hidden space-x-10 tablet:flex text-center tablet:items-left  text-sm">
+                        <a href="/" className="hover:text-black font-sans ">Home</a>
+                        <a href="/faq" className="hover:text-black font-sans ">Trades</a>
+                        <a href="/down" className="hover:text-black font-sans ">Utility</a>
+                        <a href="/login" className="hover:text-black font-sans ">Login</a>
+                        <a href="/" className="hover:text-black font-sans ">Home</a>
+
                     </div>
 
                                      
                        <a 
                         href="/down" 
-                        className=' text-black text-sm  bg-white mobile:hidden font-sans font-bold tablet:inline rounded-lg p-3'>Download </a>
+                        className=' text-mintGreen text-sm  bg-white mobile:hidden font-sans font-bold tablet:inline rounded-lg p-2'>Download DEVy App </a>
                 
 
 
                     <div className='mobile:inline tablet:hidden'>
                       <a
                            href="/down"
-                            className=' text-black text-xs  bg-white rounded-lg p-3'>Download Devy App</a>
+                            className=' text-black text-xs  bg-white rounded-lg p-3'>Download DEVy App</a>
                     </div>
 
 
@@ -63,18 +67,9 @@ const TopNavigation=()=>{
             <div className="mobile:inline tablet:hidden">
                 <div  ref={mobileNavBody} className="mx-10 relative flex-col items-start hidden py-10  font-semibold text-lg h-auto bg-mintGreen text-white z-50">
                     <div className="textReveal flex flex-col text-center items-center content-center space-y-6 text-sm justify-center font-bold">
-                        <div className='flex space-x-5'>
-                            <a 
-                            href="/login" 
-                            className=' text-black  bg-white rounded-lg p-3'>Log in</a>
-
-                            <a
-                           href="/signup"
-                            className=' text-black  bg-white rounded-lg p-3'>Sign up</a>
-
-                        </div>
-                        <a href="/signup" className=" hover:text-primary hover:translate-x-2">swap</a>
-                        <a href="/faq" className="hover:text-primary hover:translate-x-2">FAQ</a>
+                        <a href="/" className="text-xs">Home</a>
+                        <a href="/" className="text-xs">Trades</a>
+                        <a href="/faq" className="text-xs">FAQ</a>
 
                       
                     </div>                    

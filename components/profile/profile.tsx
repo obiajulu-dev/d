@@ -41,7 +41,11 @@ interface CategoryProps {
                    </div>
 
                    <div>
+                    <button>
                     <a className='font-bold text-xs lg:text-base'>Edit</a>
+                    </button>
+                    
+
                    </div>
                     
                    </div>
