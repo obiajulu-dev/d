@@ -50,7 +50,7 @@ const Login=()=>{
 
                     <div className="w-full flex flex-col pb-2 ">
                         <button  className="w-full bg-black rounded-md p-4 text-center flex items-center justify-center text-white">
-                           <a href='devy'> Login </a>
+                           <a href='devy'> login </a>
                         </button>
                     </div>
 
