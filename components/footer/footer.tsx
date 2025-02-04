@@ -3,10 +3,10 @@
      return(
         <footer className='bg-black mt-20 py-10'>
         <div className="tablet:container tablet:mx-auto mobile:mx-10">
-            <div className="flex justify-between text-mintGreen items-start mobile:flex-col mobile:gap-8 tablet:flex-row  tablet:flex-wrap tablet:gap-20">
+            <div className="flex justify-between text-mintGreen items-start mobile:flex-col mobile:gap-6 tablet:flex-row  tablet:flex-wrap tablet:gap-20">
              {/* Logo */}
                    <div>
-                       <h1 className="text-3xl text-white font-sans font-bold">DEVy</h1>
+                       <h1 className="tablet:text-3xl text-sm text-white font-sans font-bold">DEVy</h1>
                     </div>
                  
                 <div className="flex-col items-start">
@@ -42,6 +42,12 @@
                 </div>
 
 
+            </div>
+
+            <div className=" p-3"><p className="border-t-2 bg-mintGreen"></p></div>
+
+            <div className="flex justify-center p-3  text-white">
+            <a className="text-xs" href=""> Copyright © 2025 DEVy. All rights reserved.</a>
             </div>
         </div>
      </footer>

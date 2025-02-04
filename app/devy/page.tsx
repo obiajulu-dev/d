@@ -8,6 +8,7 @@ import Rowl from "@/components/row/rowl"
 import TopNavigationl from "@/components/topnav/top.navigationl"
 import Fast from "@/components/fast"
 import Footerl from "@/components/footer/footerl"
+import Footer from "@/components/footer/footer"
 
 
 
@@ -27,7 +28,7 @@ export default function Home() {
       <Porrol/>
       <Newsletter/>
       <CallToActionl/>
-      <Footerl/>
+      <Footer/>
 		</main> 
   	)
 }

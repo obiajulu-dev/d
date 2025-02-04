@@ -35,9 +35,9 @@ interface CategoryProps {
                    
                    <div className='p-6 flex justify-between  text-black'>
                    <div className='  '>
-                      <h1 className='text-xl font-sans font-bold first-letter:'>obiajulu-dev </h1>
+                      <h1 className='text-xl font-sans font-bold first-letter:'>obiajulu </h1>
                       <p>pr********@gmail.com</p>
-                       <p>$1500.00</p>
+                       <p>0.001</p>
                    </div>
 
                    <div>
@@ -51,7 +51,7 @@ interface CategoryProps {
                    </div>
 
                    <div className='p-10 laptop:px-36 '>
-                      <a href='/withdraw' className='lg:text-2xl w-full text-base text-white shadow bg-black rounded-lg flex justify-center font-serif font-bold '>
+                      <a href='/withdraw' className='lg:text-2xl w-full text-base text-white shadow p-2 bg-black rounded-lg flex justify-center font-serif font-bold '>
                          Withdraw    
                        </a>
                    </div>
@@ -112,7 +112,7 @@ interface CategoryProps {
                  <div className='tablet:w-full flex-row justify-between bg-white  text-black'>
                     <div className=' mobile:p-6      tablet:p-10 border-b-2 pb-28 border-b-black'>
                         <h1 className='text-xl font-sans font-bold'>Details</h1>
-                        <p>introduce yourself brother,sister......</p>
+                        <p>software developer</p>
                     </div>  
                            <div className='p-10'>
                                <h1 className='text-xl font-sans font-bold'>Owned Coin</h1>
