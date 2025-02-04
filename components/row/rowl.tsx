@@ -9,13 +9,13 @@ const Rowl=()=>{
            <div className="tablet:w-full mobile:w-full bg-primary text-white h-full mobile:p-1 tablet:p-32 flex flex-col tablet:justify-between mobile:justify-end ">
            <img src='./img/newme.png' className='p-32'></img>
                 <div className='item-center flex  justify-center'>
-                  <h1 className='text-white text-3xl font-serif'>Devy</h1>
+                  <h1 className='text-white text-3xl font-serif'>DEVy</h1>
                    </div>
 
                      <a className='text-center items-center text-mintGreen'>Growing with Devy app</a>
 
                          <div className='px-5 py-5 items-center flex justify- text-center '>
-                             <h2 className='text-white'>Fast, Flexable, Easy to use.  Fast, Flexable, Easy to use.  Fast, Flexable, Easy to use.</h2>
+                             <h2 className='text-white  font-mono text-xs'>Fast, Flexable, Easy to use. </h2>
                          </div>
 
                          <div className="w-full flex px-5 justify-end   mb-10">
