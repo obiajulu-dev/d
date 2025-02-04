@@ -11,10 +11,9 @@ const Rowl=()=>{
                 <div className='item-center flex  justify-center'>
                   <h1 className='text-white text-3xl font-serif'>DEVy</h1>
                    </div>
+                   <a className='text-center font-mono  text-xs items-center'>Start Growing With DEVy Today</a>
 
-                     <a className='text-center items-center text-mintGreen'>Growing with Devy app</a>
-
-                         <div className='px-5 py-5 items-center flex justify- text-center '>
+                         <div className='px-5 py-5 items-center flex justify-center text-center '>
                              <h2 className='text-white  font-mono text-xs'>Fast, Flexable, Easy to use. </h2>
                          </div>
 
