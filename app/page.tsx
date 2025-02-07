@@ -1,5 +1,6 @@
 
 
+import Faq from "@/components/buy/faq"
 import CallToAction from "@/components/call to action/call.to.action"
 import Fast from "@/components/fast"
 import Footer from "@/components/footer/footer"
@@ -23,6 +24,7 @@ export default function Home() {
         <Row/>
         <Fast/>
         <Porro/>
+        <Faq/>
         <Newsletter/>
         <CallToAction/>
         <Footer/>

@@ -82,7 +82,7 @@ interface CategoryProps {
 
                     <Category
                         icon=<Link2/>
-                        title='Bitcoin Cash '
+                        title='Bit_coin '
                         link='/swap'
                     />
 
@@ -119,7 +119,7 @@ interface CategoryProps {
 
                  <div className="mobile:w-full tablet:px-56 items-center justify-center flex flex-col  py-4 mb-6">
                      <button  className="w-full bg-primary rounded-md p-3 text-center flex items-center justify-center text-white">
-                        <a href='/swap'> Trade Now !!! </a>
+                        <a href='/swap'> Trade Now ! </a>
                      </button>
                 </div>
 
