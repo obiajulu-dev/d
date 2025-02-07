@@ -25,51 +25,50 @@ const Faq=()=>{
            <details>
                 <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
-                  <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
+                  <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>
             </details>
 
             <details>
-            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
-                  <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
+                  <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>
             </details>
 
             <details>
-            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
-                  <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
+                  <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>
             </details>
 
             <details>
-            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
-                  <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
+                  <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>
             </details>
 
             <details>
-            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
-                  <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
+                  <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>
             </details>
 
             <details>
-            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
-                  <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
+                  <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>
             </details>
-
 
 
             
