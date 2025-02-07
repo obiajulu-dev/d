@@ -5,7 +5,7 @@ const Row=()=>{
 
 
     return (
-         <div className="flex items-start  h-full w-full tablet:hidden  ">
+         <div className="flex items-start  h-screen w-full tablet:hidden  ">
            <div className="  mobile:w-full bg-primary text-white h-screen mobile:p-1 tablet:p-32 flex flex-col tablet:justify-between mobile:justify-end ">
            <img src='./img/newme.png' className='p-16 flex justify-center  md:py-2 '></img>
 
