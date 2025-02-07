@@ -13,7 +13,7 @@ import Footer from "@/components/footer/footer"
 
 
 export const metadata : Metadata = {
-	title : "Devy ",
+	title : "DEVy.com ",
 	description : "Devy"
 }
 

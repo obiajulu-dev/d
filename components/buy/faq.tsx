@@ -23,7 +23,7 @@ const Faq=()=>{
            <div className='space-y-6 bg-mintGreen text-white shadow-5xl tablet:py-8 mobile:py-3 px-10 rounded-2xl'>
 
            <details>
-                <summary>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -31,7 +31,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary>Lorem Ipsum Lorem Ipsum Lorem </summary>
+            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -39,7 +39,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary>Lorem Ipsum Lorem Ipsum Lorem </summary>
+            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -47,7 +47,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary>Lorem Ipsum Lorem Ipsum Lorem</summary>
+            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -55,7 +55,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary>Lorem Ipsum Lorem Ipsum Lorem  </summary>
+            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -63,8 +63,8 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary>Lorem Ipsum Lorem Ipsum Lorem </summary>
-                <span className='space-y-2 pl-3'>
+            <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <span className='space-y-2 pl-34'>
                   <p>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
                 </span>

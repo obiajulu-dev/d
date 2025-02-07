@@ -12,8 +12,8 @@ import TopNavigation from "@/components/topnav/top.navigation"
 import { Metadata } from "next"
 
 export const metadata : Metadata = {
-	title : "Devy ",
-	description : "Devy"
+	title : "DEVy.com ",
+	description : "DEVy"
 }
 
 export default function Home() {
