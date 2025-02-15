@@ -1,5 +1,5 @@
 
-import {MessageQuestion,ArrowRight2,BinanceCoin} from 'iconsax-react';
+import {MessageQuestion,ArrowRight2,ArrowDown2,BinanceCoin} from 'iconsax-react';
 
 const Faq=()=>{
 
@@ -15,15 +15,17 @@ const Faq=()=>{
                       <MessageQuestion size={40} color='#6cae75'/>
                 </div>            
              
-        <div className='mobile:mx-auto  pb-6  tablet:mx-auto'>
-         <h1 className='font-bold tablet:text-2xl font-mono text-black'>Getting Started </h1>
-        </div>
+
 
         <div className='bg-white h-full text-black  mx-10  flex flex-col tablet:py-1 py-3   tablet:px-[150px] justify-center'>
-           <div className='space-y-6 bg-mintGreen text-white shadow-5xl tablet:py-8 mobile:py-3 px-10 rounded-2xl'>
+           <div className='space-y-6 bg-mintGreen text-white shadow-5xl tablet:py-8 mobile:py-3 px-5 rounded-2xl'>
 
+            <div className='  pb-6  tablet:mx-auto'>
+              <h1 className=' tablet:text-2xl text-2xl  text-white'>Frequently Asked Questions </h1>
+            </div>
+   
            <details>
-                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-sm  flex list-none tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem? <ArrowDown2 size={20} variant='Bold'/></summary>
                 <span className='space-y-2 pl-34'>
                   <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -31,7 +33,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-sm list-none tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -39,7 +41,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs list-none tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -47,7 +49,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs list-none tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -55,7 +57,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs list-none tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   
@@ -63,7 +65,7 @@ const Faq=()=>{
             </details>
 
             <details>
-                <summary className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
+                <summary className='mobile:text-xs list-none tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem</summary>
                 <span className='space-y-2 pl-34'>
                   <p className='mobile:text-xs tablet:text-sm'>Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem</p>
                   

@@ -8,7 +8,7 @@ const Buy=()=>{
          <div className="flex items-start h-full w-full  ">
            <div className="tablet:w-full mobile:w-full text-black bg-black h-full mobile:space-y-5 mobile:p-5 tablet:p-20 flex flex-col">
                {/* Logo */}
-               <div  className='text-center flex justify-center'>
+               <div className='text-center flex justify-center'>
                     <a className='text-sm text-white font-bold'>Buy</a>
                 </div>
 
