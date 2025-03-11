@@ -22,7 +22,7 @@
                     <h4 className="font-semibold text-sm tablet:text-lg">
                         Our Links
                     </h4>
-                    <div className="flex tablet:flex-col tablet:space-x-0 mobile:flex-row mobile:space-x-5 text-xs tablet:text-sm">
+                    <div className="flex tablet:flex tablet:space-x-4 mobile:flex-row mobile:space-x-5 text-xs tablet:text-sm">
                         <a href="/" className='text-white'>Home</a>
                         <a href="/login" className='text-white'>Trade</a>
                         <a href="/login" className='text-white'>Utility</a>
@@ -33,7 +33,7 @@
                     <h4 className="font-semibold text-sm tablet:text-lg">
                         Contact Us
                     </h4>
-                    <div className="flex tablet:flex-col tablet:space-x-0 mobile:flex-row mobile:space-x-5 text-xs tablet:text-sm">
+                    <div className="flex tablet:flex tablet:space-x-4 mobile:flex-row mobile:space-x-5 text-xs tablet:text-sm">
                         <a href="/" className='text-white'>X</a>
                         <a href="/" className='text-white'>Instagram</a>
                         <a href="/" className='text-white'>Mail</a>

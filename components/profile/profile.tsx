@@ -112,7 +112,7 @@ interface CategoryProps {
                  <div className='tablet:w-full flex-row justify-between bg-white  text-black'>
                     <div className=' mobile:p-6      tablet:p-10 border-b-2 pb-28 border-b-black'>
                         <h1 className='text-xl font-sans font-bold'>Details</h1>
-                        <p>software developer</p>
+                        <p>Software Developer........</p>
                     </div>  
                            <div className='p-10'>
                                <h1 className='text-xl font-sans font-bold'>Owned Coin</h1>

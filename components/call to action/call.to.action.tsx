@@ -3,7 +3,7 @@ import { Apple, GooglePlay } from 'iconsax-react'
  const CallToAction =()=>{
     return(
         <section id="callToAction" className=" my-28">
-            <div className="tablet:container tablet:mx-auto mx-5 py-36">
+            <div className="  1 m;9[hn` `   ] py-36">
                 <div className="relative w-full flex flex-col justify-center items-center">
                     <h1 className='absolute w-full bg-mintGreen mobile:h-72 tablet:h-[350px] object-cover rounded-lg'></h1>
 

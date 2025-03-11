@@ -17,7 +17,7 @@ const Faq=()=>{
              
 
 
-        <div className='bg-white h-full text-black  mx-10  flex flex-col tablet:py-1 py-3   tablet:px-[150px] justify-center'>
+        <div className='bg-white h-full text-black  mx-10  flex flex-col tablet:py-1 tablet:pb-10 py-3   tablet:px-[150px] justify-center'>
            <div className='space-y-6 bg-mintGreen text-white shadow-5xl tablet:py-8 mobile:py-3 px-5 rounded-2xl'>
 
             <div className='  pb-6  tablet:mx-auto'>

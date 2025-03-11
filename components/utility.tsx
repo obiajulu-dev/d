@@ -19,107 +19,107 @@ interface CategoryProps {
     );
   };
 
- const Explorel=()=> {
+ const Utility=()=> {
     return(
-        <div className='bg-mintGreen w-full flex '>
+        <div className='bg-black w-full flex '>
             <div className=" tablet:mx-auto tablet:container  space-y-10 tablet:py-10 mobile:my-6 mobile:mx-10 mobile:py-6 ">
                 <div className="flex flex-col space-y-0 items-center">
-                    <h2 className="tablet:text-4xl text-white font-extrabold mobile:text-3xl ">Trading</h2>
-                    <span className="flex flex-row items-center space-x-2 text-primary font-extrabold tablet:text-4xl  mobile:text-3xl">
-                        <h2>Currencys</h2>
+                    <h2 className="tablet:text-4xl text-white font-extrabold mobile:text-3xl ">Utility</h2>
+                    <span className="flex flex-row items-center space-x-2 text-mintGreen font-extrabold tablet:text-4xl  mobile:text-3xl">
+                        <h2>Bills</h2>
                     </span>
                 </div>
 
                 <div className=" tablet:flex tablet:flex-row tablet:flex-wrap items-start tablet:justify-center">
                     <Category
                         icon=<Bitcoin/>
-                        title='Bitcoin'
+                        title='Waste Bill'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Ethereum'
+                        title='Shopping'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Tether'
+                        title='PayChoice'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Solana'
+                        title='Travel & Hotel'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Cardano'
+                        title='Blackberry'
                         link='/swap'
                     />
 
 
                     <Category
                         icon=<Link2/>
-                        title='Polkadot'
+                        title='Embassies'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Ethereum'
+                        title='Government Payment'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Litecoin'
+                        title='Product and Service'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Bit_coin '
+                        title='Invoice Payments  '
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Stellar'
+                        title='Online Shopping'
                         link='/swap'
                     />
 
                    <Category
                         icon=<Link2/>
-                        title='Stellar'
+                        title='Merchant Payments'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Solana'
+                        title='Religious'
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Solana'
+                        title='School & Exam '
                         link='/swap'
                     />
 
                     <Category
                         icon=<Link2/>
-                        title='Polkadot'
+                        title='Internet Service'
                         link='/swap'
                     />
             </div>
 
                  <div className="mobile:w-full tablet:px-56 items-center justify-center flex flex-col  py-4 mb-6">
-                     <button  className="w-full bg-primary rounded-md p-3 text-center flex items-center justify-center text-white">
-                        <a href='/swap'> Trade Now </a>
+                     <button  className="w-full bg-mintGreen rounded-md p-3 text-center flex items-center justify-center text-white">
+                        <a href='/swap'> Recharge Now </a>
                      </button>
                 </div>
 
@@ -130,5 +130,5 @@ interface CategoryProps {
     )
 }
 
-export default Explorel;
+export default Utility;
   

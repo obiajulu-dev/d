@@ -7,10 +7,10 @@ const Login=()=>{
     return (
          <div className="flex w-full  bg-black h-screen  ">
 
-           <div className=" w-1/2 mobile:hidden tablet:flex bg-black h-full">
-               <div className=' flex   '>
-                    <img src='/img/newme.png' className='w-full   '></img>
-               </div>
+           <div className=" w-1/2 mobile:hidden tablet:flex bg-black items-center  justify-center h-full">
+               <div className='flex '>
+                    <img src='/img/newme.png' className='rounded-full w-full '/>
+                </div>
            </div>
 
            <div className='px-4 tablet:px-32 py-32 w-full  tablet:w-1/2 bg-white tablet:bg-black'> 

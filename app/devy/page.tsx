@@ -9,6 +9,7 @@ import TopNavigationl from "@/components/topnav/top.navigationl"
 import Fast from "@/components/fast"
 import Footerl from "@/components/footer/footerl"
 import Footer from "@/components/footer/footer"
+import Utility from "@/components/utility"
 
 
 
@@ -25,6 +26,7 @@ export default function Home() {
       <Rowl/>
       <Fast/>
       <Explorel/>
+      <Utility/>
       <Porrol/>
       <Newsletter/>
       <CallToActionl/>
