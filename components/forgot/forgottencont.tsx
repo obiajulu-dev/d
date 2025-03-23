@@ -1,5 +1,4 @@
-import { Facebook, Google, Apple,BinanceCoin, Home3 } from 'iconsax-react'
-import { useState } from 'react';
+ hmport { useState } from 'react';
 
 const Forgottencont=()=>{
 

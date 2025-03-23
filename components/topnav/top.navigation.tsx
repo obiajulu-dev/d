@@ -40,7 +40,7 @@ const TopNavigation=()=>{
                     <div className="hidden space-x-10 tablet:flex text-center tablet:items-left  text-sm">
                         <a href="/" className="hover:text-black font-sans ">Home</a>
                         <a href="/faq" className="hover:text-black font-sans ">Trades</a>
-                        <a href="/down" className="hover:text-black font-sans ">Utility</a>
+                        <a href="/login" className="hover:text-black font-sans ">Utility</a>
                         <a href="/login" className="hover:text-black font-sans ">Login</a>
                         <a href="/" className="hover:text-black font-sans ">Home</a>
 
