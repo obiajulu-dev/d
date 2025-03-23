@@ -25,16 +25,16 @@ const Airtime=()=>{
                 <div className=''>
                     <h1 className='py-2'>Select Service Provider</h1>
                     <span className='flex gap-10 tablet:w-fit items-center shadow bg-mintGreen rounded-lg p-5 justify-center'>
-                    <img src='./img/mtn.png' className='w-[50px] rounded-full '></img>
-                    <img src='./img/airtel.png' className='w-[50px] rounded-full '></img>
-                    <img src='./img/9 mob.png' className='w-[50px] rounded-full '></img>
-                    <img src='./img/glo.jpeg' className='w-[50px] rounded-full '></img>
+                    <img src='./img/mtn.png' alt='mtn' className='w-[50px] rounded-full '></img>
+                    <img src='./img/airtel.png' alt='airtel' className='w-[50px] rounded-full '></img>
+                    <img src='./img/9 mob.png' alt='9 moble' className='w-[50px] rounded-full '></img>
+                    <img src='./img/glo.jpeg' alt='glo' className='w-[50px] rounded-full '></img>
 
                     </span>
                 </div>
 
                 <div>
-                    
+
                 </div>
 
             </div>
